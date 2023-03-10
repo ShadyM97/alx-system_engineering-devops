@@ -1,2 +1,2 @@
-#!/binn/bash
+#!/bin/bash
 chmod o+r+w+x hello
